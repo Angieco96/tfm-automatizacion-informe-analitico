@@ -1,0 +1,18 @@
+# LIBRERÍAS PRINCIPALES
+pandas
+numpy
+matplotlib
+
+# CONEXIÓN Y CONSULTAS A BD (entorno interno)
+SQLAlchemy
+pyodbc
+
+# OPENAI (SDK moderno)
+openai
+
+# VARIABLES DE ENTORNO
+python-dotenv
+
+# UTILIDADES
+docx2txt
+python-docx

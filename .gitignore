@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Variables sensibles
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Cache de Jupyter
+.ipynb_checkpoints/
+
+# Cache de VS Code
+.vscode/
+
+# Salidas generadas (informes)
+salidas/
+
+# Logs
+*.log
