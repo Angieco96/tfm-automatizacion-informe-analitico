@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # tfm-automatizacion-informe-analitico
 Prototipo académico para la automatización de informes analíticos mediante procesamiento de datos e IA generativa.
 =======
@@ -174,4 +173,3 @@ Angie Cuellar Olano
 Trabajo Fin de Máster  
 Máster en Visualización y Analítica de Datos Masivos  
 Universidad Internacional de La Rioja (UNIR)
->>>>>>> cfa6ac5 (Proyecto TFM – estructura inicial y ejecución local)
